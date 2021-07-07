@@ -4,5 +4,6 @@
         "documentation": "",
         "requirements": ["msmart==0.1.20", "pycryptodome", "midea"],
         "dependencies": [],
-        "codeowners": ["@mac-zhou"]
+        "codeowners": ["@mac-zhou"],
+        "version": "1.0.0"
 }
